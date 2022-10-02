@@ -1,6 +1,6 @@
 # Space Tracker
 
-# High-Level Project Summary
+## High-Level Project Summary
 
 ‘Space Tracker’ is an open-source, web browser application that tracks the International Space Station and satellites location in 3 dimension depictions, as well as providing other extra information, their orbital path for example. All the while being an open-source code application, meaning that our ever innovating communities of space exploration enthusiasts can always help improve and further refine our application to be more user-friendly, informative, and versatile for everyone. To illustrate the importance of the development of this app, we could easily compare it to globalization, when more information could get to more people, it means more unique minds to drive humanity even closer to our cause.
 
@@ -10,7 +10,7 @@
 * [YouTube](https://youtu.be/aLIQ4BraTaI)
 
 
-# Detailed Project Description
+## Detailed Project Description
 
 ### What is ‘Space Tracker’? 
 
@@ -25,11 +25,15 @@ Space Track is a web application that show satellites orbiting the earth by a tw
 
 We want to make people that don’t have much money can access to view data of satellite orbiting the earth and we want to make it as an open source code soother people can fix or innovate ideas in to it
 
-# Space Agency Data
+## Space Agency Data
 
 There is a lot of NASA space agency data available to support us. E.B. Space did some research on these data and highlight the parts that maybe useful for our project: 
+![](image/re1.png)
+![](image/re2.png)
+![](image/re3.png)
+![](image/re4.png)
 
-# Hackathon Journey
+## Hackathon Journey
 
 ### What inspired us to choose this challenge?:
 
@@ -51,14 +55,16 @@ In the NASA Space Apps Challenge, our experience can be described as one word: C
 
 ### 3 Words for the Space Apps experience from each of our team members:
 
-Chitipat: Endurance, Suffer, Sleepy
-Daranpop: Confusing, Challenging, fulfilling
-Krit: u,w,u
-Sethapong: Headache, Enjoy, Chaotic
-Tapanut: Go, Went, Gone
-Vivid: Suffering, Enjoyable, Chaotic
+![](image/team.png)
 
-# References
+* Chitipat: Endurance, Suffer, Sleepy
+* Daranpop: Confusing, Challenging, fulfilling
+* Krit: u,w,u
+* Sethapong: Headache, Enjoy, Chaotic
+* Tapanut: Go, Went, Gone
+* Vivid: Suffering, Enjoyable, Chaotic
+
+## References
 Data from NASA Links: 
 * https://data.nasa.gov/Earth-Science/SMALL-PLANETARY-SATELLITE-COLORS-V1-0/utgv-sc83
 * https://data.nasa.gov/Earth-Science/International-Satellite-Cloud-Climatology-Project-/fxce-k96d
