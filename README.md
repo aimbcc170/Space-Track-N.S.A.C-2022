@@ -55,7 +55,7 @@ In the NASA Space Apps Challenge, our experience can be described as one word: C
 
 ### 3 Words for the Space Apps experience from each of our team members:
 
-![](image/team.png)
+![](image/team.PNG)
 
 * Chitipat: Endurance, Suffer, Sleepy
 * Daranpop: Confusing, Challenging, fulfilling
